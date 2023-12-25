@@ -1,0 +1,501 @@
+﻿id;name;category;rec;target
+1;Surf Coffee;5;4;1
+1;Surf Coffee;5;5;1
+1;Surf Coffee;5;4;1
+1;Surf Coffee;5;4;1
+1;Surf Coffee;5;5;1
+1;Surf Coffee;5;4;1
+1;Surf Coffee;5;5;1
+1;Surf Coffee;5;4;1
+1;Surf Coffee;5;4;1
+1;Surf Coffee;5;4;1
+1;Surf Coffee;4;4;1
+1;Surf Coffee;4;5;1
+1;Surf Coffee;4;5;1
+1;Surf Coffee;4;4;1
+1;Surf Coffee;4;4;1
+1;Surf Coffee;4;5;1
+1;Surf Coffee;4;5;1
+1;Surf Coffee;4;3;1
+1;Surf Coffee;4;5;1
+1;Surf Coffee;4;5;1
+1;Surf Coffee;3;2;0
+1;Surf Coffee;3;4;0
+1;Surf Coffee;3;2;0
+1;Surf Coffee;3;2;0
+1;Surf Coffee;3;2;0
+1;Surf Coffee;3;4;0
+1;Surf Coffee;3;2;0
+1;Surf Coffee;3;4;0
+1;Surf Coffee;3;2;0
+1;Surf Coffee;3;4;0
+1;Surf Coffee;3;4;0
+1;Surf Coffee;2;1;0
+1;Surf Coffee;2;3;0
+1;Surf Coffee;2;2;0
+1;Surf Coffee;2;1;0
+1;Surf Coffee;2;1;0
+1;Surf Coffee;2;3;0
+1;Surf Coffee;2;2;0
+1;Surf Coffee;2;2;0
+1;Surf Coffee;2;1;0
+1;Surf Coffee;2;1;0
+1;Surf Coffee;1;2;0
+1;Surf Coffee;1;1;0
+1;Surf Coffee;1;2;0
+1;Surf Coffee;1;2;0
+1;Surf Coffee;1;2;0
+1;Surf Coffee;1;1;0
+1;Surf Coffee;1;2;0
+1;Surf Coffee;1;1;0
+1;Surf Coffee;1;1;0
+2;Sweet Cup;5;5;1
+2;Sweet Cup;5;5;1
+2;Sweet Cup;5;5;1
+2;Sweet Cup;5;5;1
+2;Sweet Cup;5;5;1
+2;Sweet Cup;5;4;1
+2;Sweet Cup;5;4;1
+2;Sweet Cup;5;5;1
+2;Sweet Cup;5;5;1
+2;Sweet Cup;5;5;1
+2;Sweet Cup;4;4;1
+2;Sweet Cup;4;3;1
+2;Sweet Cup;4;4;1
+2;Sweet Cup;4;5;1
+2;Sweet Cup;4;4;1
+2;Sweet Cup;4;3;1
+2;Sweet Cup;4;3;1
+2;Sweet Cup;4;4;1
+2;Sweet Cup;4;3;1
+2;Sweet Cup;4;5;1
+2;Sweet Cup;3;4;0
+2;Sweet Cup;3;3;0
+2;Sweet Cup;3;3;0
+2;Sweet Cup;3;2;0
+2;Sweet Cup;3;3;0
+2;Sweet Cup;3;2;0
+2;Sweet Cup;3;3;0
+2;Sweet Cup;3;3;0
+2;Sweet Cup;3;2;0
+2;Sweet Cup;3;3;0
+2;Sweet Cup;3;4;0
+2;Sweet Cup;2;3;0
+2;Sweet Cup;2;2;0
+2;Sweet Cup;2;2;0
+2;Sweet Cup;2;3;0
+2;Sweet Cup;2;1;0
+2;Sweet Cup;2;3;0
+2;Sweet Cup;2;1;0
+2;Sweet Cup;2;3;0
+2;Sweet Cup;2;1;0
+2;Sweet Cup;2;2;0
+2;Sweet Cup;1;2;0
+2;Sweet Cup;1;2;0
+2;Sweet Cup;1;1;0
+2;Sweet Cup;1;1;0
+2;Sweet Cup;1;2;0
+2;Sweet Cup;1;1;0
+2;Sweet Cup;1;1;0
+2;Sweet Cup;1;2;0
+2;Sweet Cup;1;2;0
+3;Надин;5;4;1
+3;Надин;5;4;1
+3;Надин;5;5;1
+3;Надин;5;4;1
+3;Надин;5;5;1
+3;Надин;5;5;1
+3;Надин;5;4;1
+3;Надин;5;4;1
+3;Надин;5;4;1
+3;Надин;5;4;1
+3;Надин;4;4;1
+3;Надин;4;5;1
+3;Надин;4;5;1
+3;Надин;4;5;1
+3;Надин;4;4;1
+3;Надин;4;5;1
+3;Надин;4;3;1
+3;Надин;4;4;1
+3;Надин;4;3;1
+3;Надин;4;3;1
+3;Надин;3;4;0
+3;Надин;3;3;0
+3;Надин;3;4;0
+3;Надин;3;4;0
+3;Надин;3;3;0
+3;Надин;3;2;0
+3;Надин;3;2;0
+3;Надин;3;2;0
+3;Надин;3;3;0
+3;Надин;3;2;0
+3;Надин;3;3;0
+3;Надин;2;2;0
+3;Надин;2;3;0
+3;Надин;2;2;0
+3;Надин;2;3;0
+3;Надин;2;1;0
+3;Надин;2;1;0
+3;Надин;2;2;0
+3;Надин;2;3;0
+3;Надин;2;1;0
+3;Надин;2;1;0
+3;Надин;1;2;0
+3;Надин;1;2;0
+3;Надин;1;2;0
+3;Надин;1;2;0
+3;Надин;1;1;0
+3;Надин;1;1;0
+3;Надин;1;2;0
+3;Надин;1;1;0
+3;Надин;1;2;0
+4;Cups&Hugs;5;4;1
+4;Cups&Hugs;5;5;1
+4;Cups&Hugs;5;5;1
+4;Cups&Hugs;5;5;1
+4;Cups&Hugs;5;4;1
+4;Cups&Hugs;5;4;1
+4;Cups&Hugs;5;5;1
+4;Cups&Hugs;5;4;1
+4;Cups&Hugs;5;5;1
+4;Cups&Hugs;5;5;1
+4;Cups&Hugs;4;5;1
+4;Cups&Hugs;4;4;1
+4;Cups&Hugs;4;4;1
+4;Cups&Hugs;4;5;1
+4;Cups&Hugs;4;4;1
+4;Cups&Hugs;4;3;1
+4;Cups&Hugs;4;5;1
+4;Cups&Hugs;4;4;1
+4;Cups&Hugs;4;5;1
+4;Cups&Hugs;4;3;1
+4;Cups&Hugs;3;4;0
+4;Cups&Hugs;3;2;0
+4;Cups&Hugs;3;4;0
+4;Cups&Hugs;3;3;0
+4;Cups&Hugs;3;4;0
+4;Cups&Hugs;3;2;0
+4;Cups&Hugs;3;4;0
+4;Cups&Hugs;3;2;0
+4;Cups&Hugs;3;3;0
+4;Cups&Hugs;3;2;0
+4;Cups&Hugs;3;2;0
+4;Cups&Hugs;2;1;0
+4;Cups&Hugs;2;2;0
+4;Cups&Hugs;2;2;0
+4;Cups&Hugs;2;3;0
+4;Cups&Hugs;2;1;0
+4;Cups&Hugs;2;1;0
+4;Cups&Hugs;2;3;0
+4;Cups&Hugs;2;1;0
+4;Cups&Hugs;2;2;0
+4;Cups&Hugs;2;1;0
+4;Cups&Hugs;1;2;0
+4;Cups&Hugs;1;2;0
+4;Cups&Hugs;1;1;0
+4;Cups&Hugs;1;1;0
+4;Cups&Hugs;1;1;0
+4;Cups&Hugs;1;1;0
+4;Cups&Hugs;1;2;0
+4;Cups&Hugs;1;1;0
+4;Cups&Hugs;1;2;0
+5;Просвет;5;4;1
+5;Просвет;5;5;1
+5;Просвет;5;4;1
+5;Просвет;5;5;1
+5;Просвет;5;4;1
+5;Просвет;5;4;1
+5;Просвет;5;4;1
+5;Просвет;5;4;1
+5;Просвет;5;5;1
+5;Просвет;5;4;1
+5;Просвет;4;3;1
+5;Просвет;4;5;1
+5;Просвет;4;5;1
+5;Просвет;4;3;1
+5;Просвет;4;5;1
+5;Просвет;4;4;1
+5;Просвет;4;3;1
+5;Просвет;4;3;1
+5;Просвет;4;5;1
+5;Просвет;4;4;1
+5;Просвет;3;3;0
+5;Просвет;3;2;0
+5;Просвет;3;2;0
+5;Просвет;3;4;0
+5;Просвет;3;4;0
+5;Просвет;3;4;0
+5;Просвет;3;2;0
+5;Просвет;3;3;0
+5;Просвет;3;3;0
+5;Просвет;3;3;0
+5;Просвет;3;4;0
+5;Просвет;2;2;0
+5;Просвет;2;3;0
+5;Просвет;2;3;0
+5;Просвет;2;3;0
+5;Просвет;2;3;0
+5;Просвет;2;3;0
+5;Просвет;2;1;0
+5;Просвет;2;2;0
+5;Просвет;2;3;0
+5;Просвет;2;3;0
+5;Просвет;1;2;0
+5;Просвет;1;1;0
+5;Просвет;1;1;0
+5;Просвет;1;2;0
+5;Просвет;1;2;0
+5;Просвет;1;2;0
+5;Просвет;1;2;0
+5;Просвет;1;1;0
+5;Просвет;1;2;0
+6;Smart Coffee Lab;5;5;1
+6;Smart Coffee Lab;5;5;1
+6;Smart Coffee Lab;5;4;1
+6;Smart Coffee Lab;5;4;1
+6;Smart Coffee Lab;5;5;1
+6;Smart Coffee Lab;5;5;1
+6;Smart Coffee Lab;5;4;1
+6;Smart Coffee Lab;5;4;1
+6;Smart Coffee Lab;5;4;1
+6;Smart Coffee Lab;5;5;1
+6;Smart Coffee Lab;4;4;1
+6;Smart Coffee Lab;4;3;1
+6;Smart Coffee Lab;4;4;1
+6;Smart Coffee Lab;4;4;1
+6;Smart Coffee Lab;4;4;1
+6;Smart Coffee Lab;4;3;1
+6;Smart Coffee Lab;4;3;1
+6;Smart Coffee Lab;4;4;1
+6;Smart Coffee Lab;4;3;1
+6;Smart Coffee Lab;4;4;1
+6;Smart Coffee Lab;3;3;0
+6;Smart Coffee Lab;3;3;0
+6;Smart Coffee Lab;3;4;0
+6;Smart Coffee Lab;3;3;0
+6;Smart Coffee Lab;3;2;0
+6;Smart Coffee Lab;3;3;0
+6;Smart Coffee Lab;3;2;0
+6;Smart Coffee Lab;3;3;0
+6;Smart Coffee Lab;3;3;0
+6;Smart Coffee Lab;3;4;0
+6;Smart Coffee Lab;3;3;0
+6;Smart Coffee Lab;2;2;0
+6;Smart Coffee Lab;2;2;0
+6;Smart Coffee Lab;2;3;0
+6;Smart Coffee Lab;2;1;0
+6;Smart Coffee Lab;2;1;0
+6;Smart Coffee Lab;2;2;0
+6;Smart Coffee Lab;2;2;0
+6;Smart Coffee Lab;2;2;0
+6;Smart Coffee Lab;2;2;0
+6;Smart Coffee Lab;2;3;0
+6;Smart Coffee Lab;1;1;0
+6;Smart Coffee Lab;1;2;0
+6;Smart Coffee Lab;1;1;0
+6;Smart Coffee Lab;1;2;0
+6;Smart Coffee Lab;1;2;0
+6;Smart Coffee Lab;1;2;0
+6;Smart Coffee Lab;1;2;0
+6;Smart Coffee Lab;1;2;0
+6;Smart Coffee Lab;1;2;0
+7;Ycp;5;4;1
+7;Ycp;5;4;1
+7;Ycp;5;4;1
+7;Ycp;5;4;1
+7;Ycp;5;4;1
+7;Ycp;5;4;1
+7;Ycp;5;4;1
+7;Ycp;5;5;1
+7;Ycp;5;5;1
+7;Ycp;5;5;1
+7;Ycp;4;4;1
+7;Ycp;4;4;1
+7;Ycp;4;5;1
+7;Ycp;4;5;1
+7;Ycp;4;5;1
+7;Ycp;4;3;1
+7;Ycp;4;3;1
+7;Ycp;4;4;1
+7;Ycp;4;4;1
+7;Ycp;4;5;1
+7;Ycp;3;3;0
+7;Ycp;3;2;0
+7;Ycp;3;3;0
+7;Ycp;3;2;0
+7;Ycp;3;3;0
+7;Ycp;3;3;0
+7;Ycp;3;4;0
+7;Ycp;3;3;0
+7;Ycp;3;2;0
+7;Ycp;3;4;0
+7;Ycp;3;2;0
+7;Ycp;2;3;0
+7;Ycp;2;1;0
+7;Ycp;2;2;0
+7;Ycp;2;1;0
+7;Ycp;2;3;0
+7;Ycp;2;3;0
+7;Ycp;2;2;0
+7;Ycp;2;3;0
+7;Ycp;2;2;0
+7;Ycp;2;3;0
+7;Ycp;1;1;0
+7;Ycp;1;2;0
+7;Ycp;1;2;0
+7;Ycp;1;2;0
+7;Ycp;1;1;0
+7;Ycp;1;1;0
+7;Ycp;1;2;0
+7;Ycp;1;1;0
+7;Ycp;1;2;0
+8;Ланч поинт;5;5;1
+8;Ланч поинт;5;5;1
+8;Ланч поинт;5;5;1
+8;Ланч поинт;5;5;1
+8;Ланч поинт;5;5;1
+8;Ланч поинт;5;4;1
+8;Ланч поинт;5;5;1
+8;Ланч поинт;5;5;1
+8;Ланч поинт;5;4;1
+8;Ланч поинт;5;5;1
+8;Ланч поинт;4;4;1
+8;Ланч поинт;4;5;1
+8;Ланч поинт;4;4;1
+8;Ланч поинт;4;4;1
+8;Ланч поинт;4;3;1
+8;Ланч поинт;4;3;1
+8;Ланч поинт;4;3;1
+8;Ланч поинт;4;5;1
+8;Ланч поинт;4;4;1
+8;Ланч поинт;4;5;1
+8;Ланч поинт;3;3;0
+8;Ланч поинт;3;2;0
+8;Ланч поинт;3;4;0
+8;Ланч поинт;3;3;0
+8;Ланч поинт;3;3;0
+8;Ланч поинт;3;2;0
+8;Ланч поинт;3;4;0
+8;Ланч поинт;3;2;0
+8;Ланч поинт;3;4;0
+8;Ланч поинт;3;4;0
+8;Ланч поинт;3;4;0
+8;Ланч поинт;2;2;0
+8;Ланч поинт;2;2;0
+8;Ланч поинт;2;2;0
+8;Ланч поинт;2;2;0
+8;Ланч поинт;2;1;0
+8;Ланч поинт;2;2;0
+8;Ланч поинт;2;1;0
+8;Ланч поинт;2;3;0
+8;Ланч поинт;2;3;0
+8;Ланч поинт;2;1;0
+8;Ланч поинт;1;2;0
+8;Ланч поинт;1;1;0
+8;Ланч поинт;1;1;0
+8;Ланч поинт;1;1;0
+8;Ланч поинт;1;1;0
+8;Ланч поинт;1;2;0
+8;Ланч поинт;1;1;0
+8;Ланч поинт;1;2;0
+8;Ланч поинт;1;1;0
+9;from Berlin.;5;5;1
+9;from Berlin.;5;4;1
+9;from Berlin.;5;5;1
+9;from Berlin.;5;5;1
+9;from Berlin.;5;4;1
+9;from Berlin.;5;4;1
+9;from Berlin.;5;4;1
+9;from Berlin.;5;5;1
+9;from Berlin.;5;4;1
+9;from Berlin.;5;4;1
+9;from Berlin.;4;5;1
+9;from Berlin.;4;5;1
+9;from Berlin.;4;4;1
+9;from Berlin.;4;3;1
+9;from Berlin.;4;4;1
+9;from Berlin.;4;5;1
+9;from Berlin.;4;4;1
+9;from Berlin.;4;4;1
+9;from Berlin.;4;4;1
+9;from Berlin.;4;3;1
+9;from Berlin.;3;4;0
+9;from Berlin.;3;4;0
+9;from Berlin.;3;3;0
+9;from Berlin.;3;3;0
+9;from Berlin.;3;3;0
+9;from Berlin.;3;4;0
+9;from Berlin.;3;4;0
+9;from Berlin.;3;2;0
+9;from Berlin.;3;2;0
+9;from Berlin.;3;2;0
+9;from Berlin.;3;4;0
+9;from Berlin.;2;2;0
+9;from Berlin.;2;3;0
+9;from Berlin.;2;2;0
+9;from Berlin.;2;2;0
+9;from Berlin.;2;3;0
+9;from Berlin.;2;3;0
+9;from Berlin.;2;1;0
+9;from Berlin.;2;2;0
+9;from Berlin.;2;2;0
+9;from Berlin.;2;1;0
+9;from Berlin.;1;1;0
+9;from Berlin.;1;2;0
+9;from Berlin.;1;1;0
+9;from Berlin.;1;1;0
+9;from Berlin.;1;2;0
+9;from Berlin.;1;2;0
+9;from Berlin.;1;2;0
+9;from Berlin.;1;2;0
+9;from Berlin.;1;1;0
+10;Салют;5;4;1
+10;Салют;5;5;1
+10;Салют;5;4;1
+10;Салют;5;4;1
+10;Салют;5;5;1
+10;Салют;5;5;1
+10;Салют;5;5;1
+10;Салют;5;4;1
+10;Салют;5;5;1
+10;Салют;5;5;1
+10;Салют;4;3;1
+10;Салют;4;4;1
+10;Салют;4;4;1
+10;Салют;4;3;1
+10;Салют;4;3;1
+10;Салют;4;4;1
+10;Салют;4;4;1
+10;Салют;4;5;1
+10;Салют;4;3;1
+10;Салют;4;3;1
+10;Салют;3;4;0
+10;Салют;3;3;0
+10;Салют;3;3;0
+10;Салют;3;3;0
+10;Салют;3;2;0
+10;Салют;3;4;0
+10;Салют;3;4;0
+10;Салют;3;3;0
+10;Салют;3;2;0
+10;Салют;3;4;0
+10;Салют;3;4;0
+10;Салют;2;1;0
+10;Салют;2;3;0
+10;Салют;2;3;0
+10;Салют;2;1;0
+10;Салют;2;2;0
+10;Салют;2;3;0
+10;Салют;2;1;0
+10;Салют;2;1;0
+10;Салют;2;1;0
+10;Салют;2;2;0
+10;Салют;1;2;0
+10;Салют;1;2;0
+10;Салют;1;2;0
+10;Салют;1;1;0
+10;Салют;1;1;0
+10;Салют;1;2;0
+10;Салют;1;2;0
+10;Салют;1;1;0
+10;Салют;1;1;0
